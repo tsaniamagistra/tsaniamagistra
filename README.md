@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm **Tsania Magistra**
+
+🌱 I’m currently learning about:
+- Backend development
+- App deployment on Google Cloud
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tsania-magistra/)
 
 <!--
 **tsaniamagistra/tsaniamagistra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
